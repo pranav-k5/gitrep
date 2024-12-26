@@ -1,1 +1,6 @@
   <td><a href="/delete-reciepe/{{reciepe.id}}/" class="btn btn-danger">delete</a></td>
+
+
+
+path('delete-reciepe/<id>/',delete_reciepe)
+]
